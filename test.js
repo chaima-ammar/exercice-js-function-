@@ -150,6 +150,7 @@ function incre (num1) {
  //exercice18:
  function str (num1,num2) { 
      return Math.min (Number(num1),Number(num2)).toString()
+js
 
      
      }
